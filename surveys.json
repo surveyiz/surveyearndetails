@@ -1,0 +1,2105 @@
+{
+  "surveyTag": "Surveys Available Today",
+  "surveys": [
+    {
+      "surveyId": "KE001",
+      "surveyCategory": "Safaricom M-PESA",
+      "surveyPaid": true,
+      "surveyAmount": 75,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How frequently do you use M-PESA for transactions?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Multiple times a day",
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+          ]
+        },
+        {
+          "surveyQuestion": "Which M-PESA services do you use most often?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Money Transfer",
+            "Bill Payments",
+            "Airtime Purchase",
+            "Lipa na M-PESA",
+            "Savings and Loans"
+          ]
+        },
+        {
+          "surveyQuestion": "What is the primary benefit you enjoy from using M-PESA?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the ease of accessing M-PESA services on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend M-PESA to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you ever faced challenges with M-PESA transactions?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for M-PESA?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE002",
+      "surveyCategory": "Equity Bank",
+      "surveyPaid": true,
+      "surveyAmount": 70,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Equity Bank services do you currently use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Savings Account",
+            "Loans",
+            "Mobile Banking",
+            "Insurance",
+            "Investment Services"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Equity Bank's customer service?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What motivates you to bank with Equity Bank?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you use Equity Bank's mobile app, Eazzy Banking?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate the accessibility of Equity Bank branches or agents on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What new financial product would you like Equity Bank to offer?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE003",
+      "surveyCategory": "Naivas Supermarket",
+      "surveyPaid": true,
+      "surveyAmount": 65,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you shop at Naivas Supermarket?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rarely"
+          ]
+        },
+        {
+          "surveyQuestion": "Which product categories do you purchase most at Naivas?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Groceries",
+            "Personal Care",
+            "Household Items",
+            "Electronics",
+            "Clothing"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you value most about shopping at Naivas?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of fresh produce at Naivas on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Naivas to friends or family?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Naivas' loyalty program?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you like to see in Naivas stores?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE004",
+      "surveyCategory": "Kenya Airways",
+      "surveyPaid": true,
+      "surveyAmount": 80,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you fly with Kenya Airways?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Monthly",
+            "Quarterly",
+            "Annually",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which class of service do you usually book with Kenya Airways?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Economy",
+            "Premium Economy",
+            "Business Class"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your favorite aspect of flying with Kenya Airways?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the in-flight entertainment on Kenya Airways on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Kenya Airways to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Kenya Airways' baggage handling?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What new destinations would you like Kenya Airways to add?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE005",
+      "surveyCategory": "Brookside Dairy",
+      "surveyPaid": false,
+      "surveyAmount": 45,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Brookside Dairy products do you purchase regularly?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Milk",
+            "Yoghurt",
+            "Cheese",
+            "Butter",
+            "Cream"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you consume Brookside Dairy products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Brookside Dairy products?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the taste of Brookside Dairy products on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Brookside Dairy to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE006",
+      "surveyCategory": "Jumia Kenya",
+      "surveyPaid": true,
+      "surveyAmount": 70,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you shop on Jumia Kenya?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Every Few Months",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which product categories do you buy most on Jumia Kenya?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Electronics",
+            "Fashion",
+            "Home & Living",
+            "Groceries",
+            "Health & Beauty"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your favorite feature of the Jumia Kenya platform?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the delivery speed of Jumia Kenya on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Jumia Kenya to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you ever used Jumia Kenya's return or refund services?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Jumia Kenya?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE007",
+      "surveyCategory": "KCB Bank",
+      "surveyPaid": true,
+      "surveyAmount": 68,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which KCB Bank services do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Savings Account",
+            "Current Account",
+            "Loans",
+            "Mobile Banking",
+            "Credit Cards"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with KCB Bank's online banking platform?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What is the most convenient feature of KCB Bank's services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you visit a KCB Bank branch?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate the speed of service at KCB Bank branches on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What new banking service would you like KCB Bank to offer?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend KCB Bank to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE008",
+      "surveyCategory": "Twiga Foods",
+      "surveyPaid": true,
+      "surveyAmount": 62,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you purchase fresh produce from Twiga Foods?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rarely"
+          ]
+        },
+        {
+          "surveyQuestion": "Which products do you buy most from Twiga Foods?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Fruits",
+            "Vegetables",
+            "Grains",
+            "Dairy",
+            "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Twiga Foods' delivery service?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the freshness of Twiga Foods' produce on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Twiga Foods to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Twiga Foods' pricing?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE009",
+      "surveyCategory": "Co-operative Bank",
+      "surveyPaid": false,
+      "surveyAmount": 50,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Co-operative Bank services do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Savings Account",
+            "Loans",
+            "Mobile Banking",
+            "Sacco Services",
+            "Insurance"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Co-operative Bank's mobile banking app?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your primary reason for choosing Co-operative Bank?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the customer service at Co-operative Bank branches on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Co-operative Bank to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE010",
+      "surveyCategory": "Zuku",
+      "surveyPaid": true,
+      "surveyAmount": 72,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Zuku services do you subscribe to?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Internet",
+            "TV",
+            "Voice",
+            "Bundle"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Zuku's internet speed?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your favorite Zuku TV channel or package?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you experience service interruptions with Zuku?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Often",
+            "Always"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate Zuku's customer support on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you like to see in Zuku's services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Zuku to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE011",
+      "surveyCategory": "Java House",
+      "surveyPaid": true,
+      "surveyAmount": 60,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you visit Java House?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which menu items do you order most at Java House?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Coffee",
+            "Meals",
+            "Desserts",
+            "Juices",
+            "Smoothies"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you enjoy most about the Java House experience?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of service at Java House on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Java House to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new menu item would you like Java House to introduce?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE012",
+      "surveyCategory": "Kipepeo Clothing",
+      "surveyPaid": true,
+      "surveyAmount": 58,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you purchase clothing from Kipepeo?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Monthly",
+            "Quarterly",
+            "Annually",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which types of clothing do you buy from Kipepeo?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Casual Wear",
+            "Formal Wear",
+            "Traditional Attire",
+            "Accessories"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Kipepeo's clothing designs?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of Kipepeo clothing on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Kipepeo to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new clothing styles would you like Kipepeo to offer?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE013",
+      "surveyCategory": "KPLC",
+      "surveyPaid": true,
+      "surveyAmount": 66,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How reliable is KPLC's electricity supply in your area?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Reliable",
+            "Reliable",
+            "Neutral",
+            "Unreliable",
+            "Very Unreliable"
+          ]
+        },
+        {
+          "surveyQuestion": "Which KPLC services do you interact with most?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Electricity Supply",
+            "Billing",
+            "Customer Support",
+            "New Connections"
+          ]
+        },
+        {
+          "surveyQuestion": "What challenges have you faced with KPLC services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the ease of paying KPLC bills on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend KPLC services to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with KPLC's response to outages?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE014",
+      "surveyCategory": "Bidco Africa",
+      "surveyPaid": false,
+      "surveyAmount": 48,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Bidco Africa products do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Cooking Oil",
+            "Margarine",
+            "Soaps",
+            "Detergents",
+            "Personal Care"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you purchase Bidco products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Bidco products?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of Bidco products on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Bidco products to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE015",
+      "surveyCategory": "Safaricom Home Fibre",
+      "surveyPaid": true,
+      "surveyAmount": 78,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Safaricom Home Fibre package do you use?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Bronze (10mbps)",
+            "Silver (20mbps)",
+            "Gold (40mbps)",
+            "Diamond (100mbps)"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with the internet speed of Safaricom Home Fibre?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you primarily use Safaricom Home Fibre for?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Streaming",
+            "Work from Home",
+            "Gaming",
+            "Browsing",
+            "Education"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you experience connectivity issues with Safaricom Home Fibre?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Often",
+            "Always"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate Safaricom Home Fibre's customer support on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Safaricom Home Fibre?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Safaricom Home Fibre to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE016",
+      "surveyCategory": "Artcaffe",
+      "surveyPaid": true,
+      "surveyAmount": 64,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you visit Artcaffe?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which Artcaffe menu items do you enjoy most?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Coffee",
+            "Pastries",
+            "Meals",
+            "Desserts",
+            "Beverages"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about the Artcaffe ambiance?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the cleanliness of Artcaffe outlets on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Artcaffe to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new menu item would you like Artcaffe to introduce?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE017",
+      "surveyCategory": "Carrefour Kenya",
+      "surveyPaid": true,
+      "surveyAmount": 67,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you shop at Carrefour Kenya?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rarely"
+          ]
+        },
+        {
+          "surveyQuestion": "Which product categories do you buy most at Carrefour?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Groceries",
+            "Electronics",
+            "Clothing",
+            "Household Items",
+            "Personal Care"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about shopping at Carrefour?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the variety of products at Carrefour on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Carrefour to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Carrefour's pricing?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Carrefour Kenya?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE018",
+      "surveyCategory": "Keroche Breweries",
+      "surveyPaid": false,
+      "surveyAmount": 46,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Keroche Breweries products do you consume?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Summit Lager",
+            "Summit Malt",
+            "Vienna Ice",
+            "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you purchase Keroche products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Occasionally",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Keroche Breweries products?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the taste of Keroche products on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Keroche Breweries to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE019",
+      "surveyCategory": "Safaricom PLC",
+      "surveyPaid": true,
+      "surveyAmount": 74,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Safaricom mobile services do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Voice Calls",
+            "SMS",
+            "Mobile Data",
+            "Bundles",
+            "Safaricom Home Fibre"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Safaricom's network coverage?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Safaricom's mobile services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you purchase Safaricom bundles?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate Safaricom's customer care on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What new mobile service would you like Safaricom to introduce?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Safaricom to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE020",
+      "surveyCategory": "Chandaria Industries",
+      "surveyPaid": false,
+      "surveyAmount": 42,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Chandaria Industries products do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Tissue Paper",
+            "Toilet Paper",
+            "Sanitary Pads",
+            "Packaging Materials"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you purchase Chandaria products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Chandaria products?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of Chandaria products on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Chandaria products to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE021",
+      "surveyCategory": "Eldoret Water and Sanitation Company (ELDOWAS)",
+      "surveyPaid": true,
+      "surveyAmount": 63,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How satisfied are you with ELDOWAS water supply reliability?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What water-related services do you use from ELDOWAS?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Domestic Water Supply",
+            "Sewerage Services",
+            "Billing",
+            "Customer Support"
+          ]
+        },
+        {
+          "surveyQuestion": "What challenges have you faced with ELDOWAS services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of water supplied by ELDOWAS on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend ELDOWAS to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for ELDOWAS?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE022",
+      "surveyCategory": "Kenchic",
+      "surveyPaid": true,
+      "surveyAmount": 61,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you purchase Kenchic products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which Kenchic products do you buy?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Fresh Chicken",
+            "Processed Chicken",
+            "Eggs",
+            "Fast Food"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Kenchic products?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of Kenchic products on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Kenchic to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new product would you like Kenchic to introduce?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE023",
+      "surveyCategory": "Airtel Kenya",
+      "surveyPaid": true,
+      "surveyAmount": 69,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Airtel Kenya services do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Voice Calls",
+            "SMS",
+            "Mobile Data",
+            "Airtel Money",
+            "Bundles"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Airtel's network reliability?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Airtel Kenya's services?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you purchase Airtel bundles?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Rate Airtel Kenya's customer care on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "What new service would you like Airtel Kenya to offer?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Airtel Kenya to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE024",
+      "surveyCategory": "Nation Media Group",
+      "surveyPaid": true,
+      "surveyAmount": 71,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which Nation Media Group platforms do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Daily Nation Newspaper",
+            "NTV",
+            "Nation.Africa",
+            "Citizen TV",
+            "Radio"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you consume Nation Media Group content?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What type of content do you enjoy most from Nation Media Group?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of journalism at Nation Media Group on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Nation Media Group to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new media platform would you like Nation Media Group to launch?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Nation Media Group's digital platforms?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE025",
+      "surveyCategory": "Glovo Kenya",
+      "surveyPaid": true,
+      "surveyAmount": 66,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you use Glovo for deliveries?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What types of items do you order most on Glovo?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Food",
+            "Groceries",
+            "Pharmacy Items",
+            "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Glovo's delivery service?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the delivery speed of Glovo on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Glovo to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Glovo Kenya?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE026",
+      "surveyCategory": "Mara Moja Transport",
+      "surveyPaid": false,
+      "surveyAmount": 44,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you travel with Mara Moja Transport?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What routes do you use Mara Moja Transport for?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the comfort of Mara Moja buses on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Mara Moja's punctuality?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Mara Moja Transport to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE027",
+      "surveyCategory": "Tusker Beer (EABL)",
+      "surveyPaid": true,
+      "surveyAmount": 68,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you consume Tusker Beer?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which Tusker variants do you prefer?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Tusker Lager",
+            "Tusker Malt",
+            "Tusker Lite",
+            "Tusker Cider"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Tusker Beer?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the taste of Tusker Beer on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Tusker Beer to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What new Tusker variant would you like to see?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE028",
+      "surveyCategory": "Quickmart",
+      "surveyPaid": true,
+      "surveyAmount": 65,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you shop at Quickmart?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rarely"
+          ]
+        },
+        {
+          "surveyQuestion": "Which product categories do you buy most at Quickmart?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Groceries",
+            "Household Items",
+            "Personal Care",
+            "Beverages",
+            "Snacks"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about shopping at Quickmart?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the customer service at Quickmart on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Quickmart to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Quickmart?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "KE029",
+      "surveyCategory": "Kenya Tea Development Agency (KTDA)",
+      "surveyPaid": false,
+      "surveyAmount": 43,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Which KTDA tea brands do you consume?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Ketepa",
+            "Fahari ya Kenya",
+            "Safari Gold",
+            "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you purchase KTDA tea products?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about KTDA tea?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the quality of KTDA tea on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend KTDA tea to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "surveyId": "KE030",
+      "surveyCategory": "Bolt Kenya",
+      "surveyPaid": true,
+      "surveyAmount": 70,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How often do you use Bolt for transportation?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "Which Bolt services do you use?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Bolt Economy",
+            "Bolt XL",
+            "Bolt Business",
+            "Bolt Go"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like most about Bolt's ride-hailing service?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Rate the affordability of Bolt rides on a scale of 1-5.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "surveyQuestion": "How likely are you to recommend Bolt to others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "surveyQuestion": "What improvements would you suggest for Bolt Kenya?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How satisfied are you with Bolt's driver professionalism?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied",
+            "Very Dissatisfied"
+          ]
+        }
+      ]
+    }
+  ]
+}
