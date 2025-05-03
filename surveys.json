@@ -2100,6 +2100,1344 @@
           ]
         }
       ]
-    }
-  ]
+    },
+  {
+    "surveyId": "KE031",
+    "surveyCategory": "CIC Insurance Group",
+    "surveyPaid": false,
+    "surveyAmount": 40,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which CIC Insurance products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Health Insurance",
+          "Motor Insurance",
+          "Life Insurance",
+          "Home Insurance",
+          "Business Insurance"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with CIC's claims process?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you value most about CIC Insurance?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate CIC's customer service on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend CIC Insurance to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE032",
+    "surveyCategory": "Kenya Power",
+    "surveyPaid": true,
+    "surveyAmount": 65,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "How often do you experience power outages in your area?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Never",
+          "Rarely",
+          "Sometimes",
+          "Often",
+          "Always"
+        ]
+      },
+      {
+        "surveyQuestion": "Which Kenya Power services do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Prepaid Electricity",
+          "Postpaid Electricity",
+          "New Connections",
+          "Customer Support"
+        ]
+      },
+      {
+        "surveyQuestion": "What challenges do you face with Kenya Power services?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the ease of accessing Kenya Power's USSD service (*977#) on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Kenya Power to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with Kenya Power's billing accuracy?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What improvements would you suggest for Kenya Power?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE033",
+    "surveyCategory": "Mabati Rolling Mills",
+    "surveyPaid": true,
+    "surveyAmount": 60,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Mabati Rolling Mills products have you used?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Roofing Sheets",
+          "Pipes",
+          "Ridges",
+          "Gutters"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the durability of Mabati products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Mabati Rolling Mills products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the quality of Mabati products on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Mabati Rolling Mills to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new product would you like Mabati Rolling Mills to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE034",
+    "surveyCategory": "Kapa Oil Refineries",
+    "surveyPaid": false,
+    "surveyAmount": 45,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Kapa Oil products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Fresh Fri",
+          "Rina",
+          "Bahari Fry",
+          "Kapa Cooking Oil"
+        ]
+      },
+      {
+        "surveyQuestion": "How often do you purchase Kapa Oil products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Weekly",
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Kapa Oil products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the quality of Kapa Oil products on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Kapa Oil to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE035",
+    "surveyCategory": "Centum Investment Company",
+    "surveyPaid": true,
+    "surveyAmount": 68,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Centum Investment services or products are you familiar with?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Real Estate",
+          "Private Equity",
+          "Financial Services",
+          "Energy"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with Centum’s investment opportunities?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you value most about Centum’s offerings?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the transparency of Centum’s investment processes on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Centum to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new investment product would you like Centum to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "How satisfied are you with Centum’s customer support?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE036",
+    "surveyCategory": "Bamburi Cement",
+    "surveyPaid": true,
+    "surveyAmount": 62,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Bamburi Cement products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Nguvu Cement",
+          "Tembo Cement",
+          "Power Plus",
+          "Concrete Mix"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the quality of Bamburi Cement?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Bamburi Cement products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the availability of Bamburi Cement in your area on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Bamburi Cement to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What improvements would you suggest for Bamburi Cement?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE037",
+    "surveyCategory": "Safaricom Foundation",
+    "surveyPaid": true,
+    "surveyAmount": 64,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Safaricom Foundation initiatives are you aware of?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Education Programs",
+          "Health Initiatives",
+          "Economic Empowerment",
+          "Environmental Conservation"
+        ]
+      },
+      {
+        "surveyQuestion": "How impactful do you find Safaricom Foundation’s community projects?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Impactful",
+          "Impactful",
+          "Neutral",
+          "Somewhat Impactful",
+          "Not Impactful"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you appreciate most about Safaricom Foundation’s work?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the visibility of Safaricom Foundation’s initiatives on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to support or recommend Safaricom Foundation’s initiatives?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new initiative would you like Safaricom Foundation to undertake?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE038",
+    "surveyCategory": "Eldoret Grain Millers",
+    "surveyPaid": false,
+    "surveyAmount": 42,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Eldoret Grain Millers products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Maize Flour",
+          "Wheat Flour",
+          "Porridge Flour",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How often do you purchase Eldoret Grain Millers products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Weekly",
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Eldoret Grain Millers products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the quality of Eldoret Grain Millers products on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Eldoret Grain Millers to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE039",
+    "surveyCategory": "Kenya Commercial Bank (KCB) Foundation",
+    "surveyPaid": true,
+    "surveyAmount": 66,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which KCB Foundation programs are you aware of?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "2jiajiri",
+          "Education Scholarships",
+          "Health Programs",
+          "Environmental Initiatives"
+        ]
+      },
+      {
+        "surveyQuestion": "How impactful do you find KCB Foundation’s programs?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Impactful",
+          "Impactful",
+          "Neutral",
+          "Somewhat Impactful",
+          "Not Impactful"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you appreciate most about KCB Foundation’s initiatives?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the accessibility of KCB Foundation programs on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend KCB Foundation programs to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new program would you like KCB Foundation to introduce?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE040",
+    "surveyCategory": "Mombasa Cement",
+    "surveyPaid": true,
+    "surveyAmount": 62,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Mombasa Cement products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Nyumba Cement",
+          "Simba Cement",
+          "Concrete Mix",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the strength of Mombasa Cement?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Mombasa Cement products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the pricing of Mombasa Cement on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Mombasa Cement to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What improvements would you suggest for Mombasa Cement?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE041",
+    "surveyCategory": "Athi River Mining (ARM) Cement",
+    "surveyPaid": true,
+    "surveyAmount": 60,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which ARM Cement products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Rhino Cement",
+          "Clinker",
+          "Concrete Mix",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with ARM Cement’s quality?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about ARM Cement products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the availability of ARM Cement in your area on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend ARM Cement to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new product would you like ARM Cement to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE042",
+    "surveyCategory": "Pwani Oil",
+    "surveyPaid": false,
+    "surveyAmount": 43,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Pwani Oil products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Soya Oil",
+          "Sunflower Oil",
+          "Palm Oil",
+          "Soaps"
+        ]
+      },
+      {
+        "surveyQuestion": "How often do you purchase Pwani Oil products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Weekly",
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Pwani Oil products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the quality of Pwani Oil products on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Pwani Oil to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE043",
+    "surveyCategory": "Kenya Seed Company",
+    "surveyPaid": true,
+    "surveyAmount": 65,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Kenya Seed Company products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Maize Seeds",
+          "Vegetable Seeds",
+          "Pasture Seeds",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the germination rate of Kenya Seed products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Kenya Seed Company products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the availability of Kenya Seed products in your area on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Kenya Seed Company to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new seed variety would you like Kenya Seed Company to introduce?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "How satisfied are you with Kenya Seed’s pricing?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE044",
+    "surveyCategory": "Ndovu Paints",
+    "surveyPaid": true,
+    "surveyAmount": 60,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Ndovu Paints products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Emulsion Paints",
+          "Gloss Paints",
+          "Primers",
+          "Industrial Coatings"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the durability of Ndovu Paints?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Ndovu Paints products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the color variety of Ndovu Paints on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Ndovu Paints to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new product would you like Ndovu Paints to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE045",
+    "surveyCategory": "Kilimall Kenya",
+    "surveyPaid": true,
+    "surveyAmount": 68,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "How often do you shop on Kilimall Kenya?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Weekly",
+          "Monthly",
+          "Every Few Months",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "surveyQuestion": "Which product categories do you buy most on Kilimall?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Electronics",
+          "Fashion",
+          "Home Appliances",
+          "Beauty Products",
+          "Groceries"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about shopping on Kilimall?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the delivery speed of Kilimall on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Kilimall to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "Have you used Kilimall’s customer support services?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "surveyQuestion": "What improvements would you suggest for Kilimall?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE046",
+    "surveyCategory": "Unga Limited",
+    "surveyPaid": false,
+    "surveyAmount": 44,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Unga Limited products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Jogoo Maize Flour",
+          "Ex Wheat Flour",
+          "Baraka Flour",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How often do you purchase Unga Limited products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Weekly",
+          "Monthly",
+          "Quarterly",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Unga Limited products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the quality of Unga Limited products on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Unga Limited to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  {
+    "surveyId": "KE047",
+    "surveyCategory": "Kakuzi PLC",
+    "surveyPaid": true,
+    "surveyAmount": 62,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Kakuzi products do you consume?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Avocados",
+          "Macadamia Nuts",
+          "Blueberries",
+          "Livestock Products"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the quality of Kakuzi products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Kakuzi products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the availability of Kakuzi products in your area on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Kakuzi products to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new product would you like Kakuzi to introduce?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE048",
+    "surveyCategory": "Oserian Flowers",
+    "surveyPaid": true,
+    "surveyAmount": 60,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which types of Oserian flowers do you purchase?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Roses",
+          "Lilies",
+          "Carnations",
+          "Other"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the freshness of Oserian flowers?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Oserian flowers?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the variety of Oserian flowers on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Oserian flowers to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new flower type would you like Oserian to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE049",
+    "surveyCategory": "Twiga Chemical Industries",
+    "surveyPaid": true,
+    "surveyAmount": 64,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Twiga Chemical products do you use?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Pesticides",
+          "Fertilizers",
+          "Herbicides",
+          "Fungicides"
+        ]
+      },
+      {
+        "surveyQuestion": "How satisfied are you with the effectiveness of Twiga Chemical products?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Satisfied",
+          "Satisfied",
+          "Neutral",
+          "Dissatisfied",
+          "Very Dissatisfied"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you like most about Twiga Chemical products?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the availability of Twiga Chemical products in your area on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to recommend Twiga Chemical to others?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new agricultural product would you like Twiga Chemical to offer?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  },
+  {
+    "surveyId": "KE050",
+    "surveyCategory": "Base Titanium",
+    "surveyPaid": true,
+    "surveyAmount": 62,
+    "surveyQuestions": [
+      {
+        "surveyQuestion": "Which Base Titanium community initiatives are you aware of?",
+        "surveyType": 3,
+        "surveyAnswers": [
+          "Education Programs",
+          "Health Initiatives",
+          "Agricultural Support",
+          "Infrastructure Development"
+        ]
+      },
+      {
+        "surveyQuestion": "How impactful do you find Base Titanium’s community programs?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "Very Impactful",
+          "Impactful",
+          "Neutral",
+          "Somewhat Impactful",
+          "Not Impactful"
+        ]
+      },
+      {
+        "surveyQuestion": "What do you appreciate most about Base Titanium’s community work?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      },
+      {
+        "surveyQuestion": "Rate the visibility of Base Titanium’s initiatives on a scale of 1-5.",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "surveyQuestion": "How likely are you to support or recommend Base Titanium’s initiatives?",
+        "surveyType": 1,
+        "surveyAnswers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "surveyQuestion": "What new initiative would you like Base Titanium to undertake?",
+        "surveyType": 2,
+        "surveyAnswers": []
+      }
+    ]
+  }
+]
 }
