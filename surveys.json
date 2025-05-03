@@ -148,8 +148,8 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid":true,
-         "surveyAmount":70,
+         "surveyPaid":false,
+         "surveyAmount":50,
          "surveyQuestions":[
             {
                "surveyQuestion":"Which Equity Bank services do you currently use?",
@@ -214,8 +214,8 @@
       {
          "surveyId":"KE003",
          "surveyCategory":"Naivas Supermarket",
-         "surveyPaid":true,
-         "surveyAmount":65,
+         "surveyPaid":false,
+         "surveyAmount":55,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop at Naivas Supermarket?",
