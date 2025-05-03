@@ -2,6 +2,71 @@
    "surveyTag":"Surveys Available Today",
    "surveys":[
       {
+        "surveyId": "1",
+        "surveyCategory": "SurveysPlus",
+        "surveyPaid": false,
+        "surveyAmount": 70,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How did you hear about us?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Youtube",
+              "Twitter",
+              "Instagram",
+              "Facebook",
+              "Friend",
+              "Our Website"
+            ]
+          },
+          {
+            "surveyQuestion": "We partner with thousand of businesses and brands to help you earn. These brands rely on your answers to advance their work thats why its important to write great answers",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "I understand",
+              "Okay"
+            ]
+          },
+          {
+            "surveyQuestion": "SurveyPlus allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Researchers on our platform sometimes look for people with specific experience. As a result you may be disqualified from certain surveys",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Every day, you will have access to one survey. You can upgrade you account from your profile if you need more surveys. This survey is free and you can take another one",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          }
+        ]
+      },
+      {
          "surveyId":"KE001",
          "surveyCategory":"Safaricom M-PESA",
          "surveyPaid":true,
