@@ -214,8 +214,8 @@
       {
          "surveyId":"KE003",
          "surveyCategory":"Naivas Supermarket",
-         "surveyPaid":false,
-         "surveyAmount":55,
+         "surveyPaid":true,
+         "surveyAmount":65,
          "surveyQuestions":[
             {
                "surveyQuestion":"How often do you shop at Naivas Supermarket?",
