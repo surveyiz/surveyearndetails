@@ -1,5 +1,14 @@
 {
-  "surveyPlans": [
+  "surveyPlans": [ 
+    {
+      "planName": "Free",
+      "dailySurvey": 1,
+      "monthlyIncome": 3000,
+      "dailyIncome": 50,
+      "minimumWithdrawal": 3000,
+      "earningPerSurvey": "40 - 50",
+      "price": "0"
+    },
     {
       "planName": "Business Basic",
       "dailySurvey": 5,
